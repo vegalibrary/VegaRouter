@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Router Class
+ * Router
  * 
  * A lightweight PHP router that handles routing, middleware, layouts, and static file serving.
  * Features include:
@@ -12,6 +12,9 @@
  * - Static file serving
  * - View rendering with layout support
  * 
+ * Planned Features:
+ * - PUT and DELETE route handling
+ *
  * @package Router
  * @author Original Author
  * @version 1.0.0
